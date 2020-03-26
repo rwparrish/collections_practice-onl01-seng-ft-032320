@@ -33,11 +33,9 @@ def sum_array(adds)
 end
   
 def add_s(plural)
-  plural.each_with_index.collect do |werd,i|
+  plural.each_with_index.collect.map do |werd,i|
     if i != 1
       werd + "s"
-    else
-      ()
     end
   end
 end
