@@ -24,7 +24,9 @@ def kesha_maker(cash)
   cash.each {|kesh| kesh[2] = "$"}
 end
   
-end find_a()  
+def find_a(letter)
+  letter.select {|alpha| alpha.start_with?("a")}
+end
   
   
   
