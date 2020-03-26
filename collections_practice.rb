@@ -21,6 +21,7 @@ def reverse_array(int)
 end
 
 def kesha_maker(cash)
+  cash_arr = []
   cash.each
   
   
