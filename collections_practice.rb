@@ -36,6 +36,8 @@ def add_s(plural)
   plural.each_with_index.collect do |werd,i|
     if i != 1
       werd + "s"
+    else
+      pass
     end
   end
 end
