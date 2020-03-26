@@ -28,7 +28,7 @@ def find_a(letter)
   letter.select {|alpha| alpha.start_with?("a")}
 end
   
-  
+def   
   
   
   
