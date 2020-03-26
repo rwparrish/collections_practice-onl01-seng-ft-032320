@@ -32,5 +32,11 @@ def sum_array(adds)
   adds.inject(0){|sum,x| sum + x }
 end
   
-def   
+def add_s(plural)
+  
+  
+  
+  
+  
+  
   
