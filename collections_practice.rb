@@ -37,7 +37,7 @@ def add_s(plural)
     if i != 1
       werd + "s"
     else
-      pass
+      
     end
   end
 end
