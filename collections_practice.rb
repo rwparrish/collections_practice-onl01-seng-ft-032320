@@ -13,7 +13,8 @@ def sort_array_char_count(asc_length)
 end
 
 def swap_elements(ele)
-  
+  ele[1], ele[2] = ele[2], ele[1]
+end
   
   
   
