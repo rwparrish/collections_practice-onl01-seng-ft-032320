@@ -9,6 +9,6 @@ def sort_array_desc(int)
 end
 
 def sort_array_char_count(asc_length)
-  asc_length.sort { |a,b| a.length - b.length}
-    
+  asc_length.sort { |a,b| a.length - b.length }
 end
+
