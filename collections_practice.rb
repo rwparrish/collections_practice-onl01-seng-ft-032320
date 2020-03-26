@@ -33,7 +33,7 @@ def sum_array(adds)
 end
   
 def add_s(plural)
-  plural.each do |werd|
+  plural.each_with_index.collect do |werd,i|
     
   
   
