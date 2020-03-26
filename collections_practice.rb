@@ -4,5 +4,6 @@ def sort_array_asc(int)
   end
 end
 
-
-  
+def sort_array_desc(int)
+  int.sort.reverse {|a,b| a <=> b}
+end
