@@ -21,7 +21,7 @@ def reverse_array(int)
 end
 
 def kesha_maker(cash)
-  cash.each {|kesh| kesh[2] = $}
+  cash.each {|kesh| kesh[2] = "$"}
 end
   
   
