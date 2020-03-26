@@ -20,7 +20,8 @@ def reverse_array(int)
   int.reverse
 end
 
-def kesha_maker(money)
+def kesha_maker(cash)
+  cash.each
   
   
   
