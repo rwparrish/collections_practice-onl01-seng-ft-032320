@@ -24,7 +24,7 @@ def kesha_maker(cash)
   cash.each {|kesh| kesh[2] = "$"}
 end
   
-  
+end find_a()  
   
   
   
