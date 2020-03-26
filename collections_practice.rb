@@ -12,3 +12,12 @@ def sort_array_char_count(asc_length)
   asc_length.sort { |a,b| a.length - b.length }
 end
 
+def swap_elements(ele)
+  
+  
+  
+  
+  
+  
+  
+  
